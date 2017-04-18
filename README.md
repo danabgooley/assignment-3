@@ -1,3 +1,7 @@
+Dana's Note: OMG I did not read this all the way to the end and I'm missing some stuff, namely the drop caps thing and images for the headers... MY BAD!
+
+
+
 #FEWD Week #3: CSS Layouts
 
 
