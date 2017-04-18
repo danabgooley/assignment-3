@@ -104,10 +104,14 @@ p {
 }
 
 
-a, a:visited{
+a, a:visited {
   text-decoration: none;
   color:#f9e42e;
 
+}
+
+a:hover {
+  color: yellow;
 }
 
 
@@ -115,6 +119,10 @@ ul {
   font-size: 24px;
   font-weight: 300;
   padding-bottom: 20px;
+}
+
+nav:hover {
+  color:white;
 }
 
 
@@ -187,8 +195,9 @@ footer {
  /* display: inline-block;*/
 }
 
+
 .logo {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 800;
   letter-spacing: 2px;
   color:white;
@@ -221,6 +230,7 @@ footer {
 
 }
 
+
 .about {
   font-size: 22px;
   font-weight: 300px;
@@ -242,6 +252,7 @@ footer {
     width: 70%;
     float: left;
     background-color: #f0efef;
+    margin: auto;
 }
 
 .gutter{
@@ -282,8 +293,9 @@ footer {
 
 .footer {
   color: #f9e42e;
-  font-size: 24px;
+  font-size: 40px;
   font-weight: 800;
+  letter-spacing: 2px;
   padding-top: 20px;
   padding-bottom: 20px;
   margin-right: 20px;
